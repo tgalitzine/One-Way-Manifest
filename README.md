@@ -15,13 +15,14 @@ The whole site is one self-contained file (`index.html`). It makes no network ca
 ## Sources and credits
 
 - Facts come from NASA pages, listed at the end of each chapter and atlas card. The few non-NASA sources are labeled as such on the page.
+- Every chapter claim and every atlas card was fact-checked in September 2026 against the sources listed on the page. Where NASA pages disagree, or NASA marks a fact as uncertain (for example, an impact it presumes but never observed), the page says so.
 - NASA 3D models and NASA photos are credited where they appear. Photos are resized for the web and not altered.
 - Third-party software and fonts: see [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
 - This project is not affiliated with or endorsed by NASA.
 
 ## AI disclosure
 
-This project was built with help from Claude (Anthropic) for research, writing, code and 3D reconstructions. Spacecraft without an official NASA model are shown as illustrative reconstructions, labeled "AI-assisted" on screen. NASA photographs are not AI-generated or altered.
+This project was built with help from Claude (Anthropic) for research, fact-checking, writing, code and 3D reconstructions. Spacecraft without an official NASA model are shown as illustrative reconstructions, labeled "AI-assisted" on screen. NASA photographs are not AI-generated or altered.
 
 ## License
 
